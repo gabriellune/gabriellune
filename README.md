@@ -18,6 +18,14 @@
 </div>
 
 ##
+ 
+### 💻 On my spare time I practice:
+<div style="display: inline_block"><br>
+<img align="center" alt="docker" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img align="center" alt="ks8" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+</div>
+
+##
 
 ### 📝 I’m currently learning
 <div style="display: inline_block"><br>
