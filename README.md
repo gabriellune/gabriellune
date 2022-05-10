@@ -1,6 +1,7 @@
 ### Hey, I'm Gabriel 👋
 
 - 🌱 I'm brazilian software engineer
+- 📖 At this moment I'm very interested in the devops culture
 ##
 
 ### ⚙️ I’m currently working with
@@ -18,10 +19,9 @@
 
 ##
 
-### 📖 I’m currently learning
+### 📝 I’m currently learning
 <div style="display: inline_block"><br>
 <img align="center" alt="aws" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <div>
-          
 
-          
+##
